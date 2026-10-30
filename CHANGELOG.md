@@ -10,4 +10,5 @@ Première version.
 - Rapport annuel de conservation préventive et volet climatique du dossier de prêt, en français, allemand ou anglais, bilingues au choix.
 - Dossier d'accueil (facility report) : questionnaire rempli une fois, rangé selon les rubriques UKRG, AAM ou Vitrine, réponses climatiques calculées depuis les mesures, export PDF avec volet climatique et export Word ; incendie et sûreté dans un supplément confidentiel à part.
 - Archive du dossier en .zip ouvert (CSV), sauvegarde automatique dans le navigateur (une par édition).
+- L'exemple se charge en anglais quand l'interface est en anglais (emplacements, journal, dossier d'accueil).
 - Guides : complet en français (LISEZMOI), abrégés en allemand (LIESMICH) et en anglais (README-EN).
